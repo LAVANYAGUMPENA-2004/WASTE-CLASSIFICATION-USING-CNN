@@ -177,7 +177,7 @@ How to Run
 
 1.Clone the repository:
 
-git clone https://github.com/Eswari-21/-CNN-Plastic-Waste-Classification cd YourRepoName
+git clone https://github.com/LAVANYAGUMPENA-2004/-CNN-Plastic-Waste-Classification cd YourRepoName
 
 
 
